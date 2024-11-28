@@ -12,16 +12,6 @@ Can handle generic queries with basic responses.
 Installation
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/chatbot-nltk.git
-cd chatbot-nltk
-Install Python Dependencies: Ensure you have Python installed (Python 3.6 or later is recommended). Install the required package:
-
-bash
-Copy code
-pip install nltk
-Download NLTK Data (if required): Run the following commands in Python to ensure all necessary NLTK data is available:
 
 python
 Copy code
